@@ -10,3 +10,4 @@ Doing a new Dependencies release is straight forward:
 4. `git push origin vXX`
 5. The workflow will automatically start, post a new release and upload the artifacts there once it finishes
 6. Check back later to see whether the workflow ran successfully
+
