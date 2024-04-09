@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "master" ]
 env:
-  VCPKG_COMMIT_HASH: c9f906558f9bb12ee9811d6edc98ec9255c6cda5
+  VCPKG_COMMIT_HASH: 1751f9f8c732c2e6f9e81ce56c10e4c4aa265b4a
 jobs:
   createrelease:
     name: createrelease
